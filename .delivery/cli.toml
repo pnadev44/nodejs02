@@ -1,0 +1,7 @@
+server = "chefauto-fzvnf9h3c5fgjuqp.eu-central-1.opsworks-cm.io"
+api_protocol = "https"
+user = "devone"
+enterprise = "poc"
+organization = "nodejsApp"
+git_port = "8989"
+pipeline = "master"
